@@ -6,7 +6,7 @@ function Pico() {
 };
 
 function Chatbot() {
-   document.getElementById("projet").innerHTML = "<h1>Chatbot</h1><img src=\"img/Chatbot2.gif\" class=\"gifdeux\" name=\"imgCode\"><img src=\"img/chatbot.gif\" class=\"gifun\" name=\"imgCode\"><div class=\"buttone\"><a href=\"https://github.com/adatechschool/pc-csml-love-is-here\">Voir le code&nbsp;</a><div class=\"mask\"></div></div><div id=\"texte\"><p>Language : </p><div class=\"tags\"><div>Csml</div></div><p><br>Groupe : 4 personnes<br><br>Le chatbot permet de faire des blagues, afficher des gifs à partir d'un mot clef, de jouer au pendu et de donner la météo dans la ville voulue.</p></div>";
+   document.getElementById("projet").innerHTML = "<h1>Chatbot</h1><img src=\"img/chatbot2.gif\" class=\"gifdeux\" name=\"imgCode\"><img src=\"img/chatbot.gif\" class=\"gifun\" name=\"imgCode\"><div class=\"buttone\"><a href=\"https://github.com/adatechschool/pc-csml-love-is-here\">Voir le code&nbsp;</a><div class=\"mask\"></div></div><div id=\"texte\"><p>Language : </p><div class=\"tags\"><div>Csml</div></div><p><br>Groupe : 4 personnes<br><br>Le chatbot permet de faire des blagues, afficher des gifs à partir d'un mot clef, de jouer au pendu et de donner la météo dans la ville voulue.</p></div>";
 };
 
 function Swift() {
