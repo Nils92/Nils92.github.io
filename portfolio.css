@@ -718,7 +718,7 @@ body{
 }
 
 #footer a{
-  padding: 25px 71px;
+  padding: 25px 5%;
   display: block;
   text-transform: uppercase;
   color: white;
@@ -816,10 +816,10 @@ body{
                   z-index: 0;
                   position: static;
                   /* margin-bottom: 10%;  */
-                  margin-left: 8%;
+                  margin-left: 5%;
 
                   border-radius: 10px;
-                  width: 250px;
+                  width: 90%;
                   height: 150px;
 
                   border-top: 3px solid #aab5bc;
@@ -845,8 +845,8 @@ body{
                 .card {
                    overflow-x: hidden;
                    overflow-y: hidden;
-                    width: 350px;
-                    height: 350px;
+                    width: 26%;
+                    min-height: 26%;
                     border-radius: 30px;
                     background-color: #f0f3f7;
                     box-shadow: -1rem 0 0.5rem rgba(0, 0, 0, 0.5);
