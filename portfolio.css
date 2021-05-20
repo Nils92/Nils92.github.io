@@ -597,6 +597,7 @@ body{
   height: 30%;
   z-index: 2;
   box-shadow: -1rem 0 0.5rem rgba(0, 0, 0, 0.5);
+  overflow: hidden;
 }
 #pdp{
   border-radius: 20px;
@@ -835,7 +836,7 @@ body{
                     left: 12%;
                     position: absolute;
                     width: 100%;
-                    overflow-x: scroll;
+                    overflow-x: hidden;
                     display: flex;
                     /* background-color: #100e17; */
                     padding: 3rem;
